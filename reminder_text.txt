@@ -1,0 +1,3 @@
+this is a student who, has been through miserably failure, was finally able to actually modify this repositery.
+And after numerous trying that took half of an hour, I finally figure out hoe to use vim as a editor of my .txt file, instead of just freezing in the screen doing nothing. This is later considered a remarkable success of my personal text-typing career, having known as a triumph of a college student who finally stopped being absolutely dumb shit. And now after all of these worthless mourning, I found out I actually had a typo in this article, and I realized vim is uttterly useless junkshit which doesn't support clicking as a primarily way to adjust a sentence, now end of the conversation. Hope I remember to save this file.y
+
